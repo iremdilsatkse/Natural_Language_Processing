@@ -6,7 +6,6 @@ Bu repo, **BTK Akademi** üzerinden aldığım **Doğal Dil İşleme (Natural La
 
 Eğitim kapsamında temel NLP kavramlarından başlayarak Python ile metin işleme uygulamaları yapılmaktadır. Ana başlıklar şunlardır:
 
-- Doğal Dil İşleme'ye Giriş
 - Metin Ön İşleme
 - Metin Temsili
 - Olasılıksal Dil Modelleri

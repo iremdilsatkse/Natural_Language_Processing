@@ -26,7 +26,6 @@ Projede ağırlıklı olarak aşağıdaki Python kütüphaneleri kullanılmışt
 ## 📌 Notlar
 
 - Bu repo, eğitimin bireysel olarak özümsenmesi amacıyla oluşturulmuştur.
-- Kodlar ve notlar zamanla güncellenebilir.
 - Her dosyanın içerisinde açıklayıcı yorumlar ve örnek çıktılar yer almaktadır.
 
 
